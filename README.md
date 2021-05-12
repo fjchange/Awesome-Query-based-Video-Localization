@@ -1,6 +1,6 @@
 # Awesome Query-based Video Localization
 
-Query-based Localization includes video grounding and video re-localization.
+Query-based Localization includes ***video grounding*** and ***video re-localization***.
 
 ## Video Grounding
 
