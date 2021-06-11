@@ -10,7 +10,7 @@ Query-based Localization includes ***video grounding*** and ***video re-localiza
 - [Temporally Grounding Natural Sentence in Video](https://www.aclweb.org/anthology/D18-1015.pdf) `ACL 2018`
 
 #### 2019
-- [Read, watch, and move: Reinforcement learning for temporally grounding natural language descriptions in videos](https://ojs.aaai.org/index.php/AAAI/article/download/4854/4727）`AAAI 2019`
+- [Read, watch, and move: Reinforcement learning for temporally grounding natural language descriptions in videos](https://ojs.aaai.org/index.php/AAAI/article/download/4854/4727)`AAAI 2019`
 - [DEBUG: A dense bottom-up grounding approach for natural language video localization](https://www.aclweb.org/anthology/D19-1518.pdf) `ACL 2019`
 - [Semantic conditioned dynamic modulation for temporal sentence grounding in videos](https://arxiv.org/pdf/1910.14303) `Arxiv 2019`
 
