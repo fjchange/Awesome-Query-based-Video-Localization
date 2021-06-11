@@ -27,7 +27,7 @@ Query-based Localization includes ***video grounding*** and ***video re-localiza
 - [DCT-net: A deep co-interactive transformer network for video temporal grounding](https://www.sciencedirect.com/science/article/abs/pii/S0262885621000883) `IVC 2021`
 ### 2. Weakly Supervised Video Temporal Grounding
 #### 2019
--[Not All Frames Are Equal: Weakly-Supervised Video Grounding with Contextual Similarity and Visual Clustering Losses](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Not_All_Frames_Are_Equal_Weakly-Supervised_Video_Grounding_With_Contextual_CVPR_2019_paper.pdf) `CVPR 2019`
+- [Not All Frames Are Equal: Weakly-Supervised Video Grounding with Contextual Similarity and Visual Clustering Losses](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Not_All_Frames_Are_Equal_Weakly-Supervised_Video_Grounding_With_Contextual_CVPR_2019_paper.pdf) `CVPR 2019`
 
 
 #### 2020
