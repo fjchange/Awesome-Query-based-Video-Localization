@@ -5,7 +5,7 @@ Query-based Localization includes ***video grounding*** and ***video re-localiza
 ## Video Grounding
 ### 1. Fully Supervised Video Temporal Grounding
 #### 2013
-- [](https://www.cv-foundation.org/openaccess/content_iccv_workshops_2013/W20/papers/Evangelidis_From_Video_Matching_2013_ICCV_paper.pdf
+- [](https://www.cv-foundation.org/openaccess/content_iccv_workshops_2013/W20/papers/Evangelidis_From_Video_Matching_2013_ICCV_paper.pdf)
 #### 2018
 - [Temporally Grounding Natural Sentence in Video](https://www.aclweb.org/anthology/D18-1015.pdf) `ACL 2018`
 
