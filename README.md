@@ -4,7 +4,8 @@ Query-based Localization includes ***video grounding*** and ***video re-localiza
 
 ## Video Grounding
 
-under-collecting...
+#### 2020
+- [Counterfactual Contrastive Learning for Weakly-Supervised Vision-Language Grounding](https://proceedings.neurips.cc/paper_files/paper/2020/hash/d27b95cac4c27feb850aaa4070cc4675-Abstract.html) `Neurlps 2020`
 
 ## Video Re-Localization
 
