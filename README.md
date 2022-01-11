@@ -25,6 +25,7 @@ Query-based Localization includes ***video grounding*** and ***video re-localiza
 - [Proposal-Free Video Grounding with Contextual Pyramid Network](https://www.aaai.org/AAAI21Papers/AAAI-9134.LiK.pdf) `AAAI 2021`
 - [Dense Event Grounding in Videos](hhttp://www.muyadong.com/paper/3254_PeijunB.pdf) `AAAI 2021`
 - [DCT-net: A deep co-interactive transformer network for video temporal grounding](https://www.sciencedirect.com/science/article/abs/pii/S0262885621000883) `IVC 2021`
+- [Hierarchical Deep Residual Reasoning for Temporal Moment Localization](https://arxiv.org/abs/2111.00417) `Arxiv 2021`
 ### 2. Weakly Supervised Video Temporal Grounding
 #### 2019
 - [Not All Frames Are Equal: Weakly-Supervised Video Grounding with Contextual Similarity and Visual Clustering Losses](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Not_All_Frames_Are_Equal_Weakly-Supervised_Video_Grounding_With_Contextual_CVPR_2019_paper.pdf) `CVPR 2019`
