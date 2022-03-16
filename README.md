@@ -29,7 +29,7 @@ Query-based Localization includes ***video grounding*** and ***video re-localiza
 ### 2. Weakly Supervised Video Temporal Grounding
 #### 2019
 - [Not All Frames Are Equal: Weakly-Supervised Video Grounding with Contextual Similarity and Visual Clustering Losses](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Not_All_Frames_Are_Equal_Weakly-Supervised_Video_Grounding_With_Contextual_CVPR_2019_paper.pdf) `CVPR 2019`
-
+- [Weakly Supervised Video Moment Retrieval From Text Queries](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mithun_Weakly_Supervised_Video_Moment_Retrieval_From_Text_Queries_CVPR_2019_paper.pdf) [`Code`](https://github.com/niluthpol/weak_supervised_video_moment) `CVPR 2019`
 
 #### 2020
 - [Look Closer to Ground Better: Weakly-Supervised Temporal Grounding of Sentence in Video](https://arxiv.org/pdf/2001.09308.pdf)`Arxiv 2020`
