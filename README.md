@@ -33,8 +33,8 @@ Query-based Localization includes ***video grounding*** and ***video re-localiza
 
 #### 2020
 - [Look Closer to Ground Better: Weakly-Supervised Temporal Grounding of Sentence in Video](https://arxiv.org/pdf/2001.09308.pdf)`Arxiv 2020`
-- [Weakly-Supervised Video Moment Retrieval via Semantic Completion Network](https://arxiv.org/pdf/1911.08199.pdf) [Code](https://github.com/ikuinen/semantic_completion_network)`AAAI 2020`
-- [Regularized Two-Branch Proposal Networks for Weakly-Supervised Moment Retrieval in Videos](https://dl.acm.org/doi/pdf/10.1145/3394171.3413967) [Code](https://github.com/ikuinen/regularized_two-branch_proposal_network)
+- [Weakly-Supervised Video Moment Retrieval via Semantic Completion Network](https://arxiv.org/pdf/1911.08199.pdf) [`Code`](https://github.com/ikuinen/semantic_completion_network)`AAAI 2020`
+- [Regularized Two-Branch Proposal Networks for Weakly-Supervised Moment Retrieval in Videos](https://dl.acm.org/doi/pdf/10.1145/3394171.3413967) [`Code`](https://github.com/ikuinen/regularized_two-branch_proposal_network)
 #### 2021
 - [Local Correspondence Network for Weakly Supervised Temporal Sentence Grounding](https://ieeexplore.ieee.org/abstract/document/9356448/)`TIP 2021`
 
